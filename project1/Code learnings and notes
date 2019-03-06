@@ -1,0 +1,17 @@
+Get flask running:
+
+
+
+setup flask:
+export FLASK_APP=application.py
+
+run flask:
+python -m flask run
+
+debug mode off
+
+Jinja in HTML: {% if christmas%}
+                <h1> yes it's christmas </h1>
+               {% else %}
+                <h1> yes it's christmas </h1>
+                {% endif %}
