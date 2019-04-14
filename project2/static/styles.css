@@ -1,0 +1,27 @@
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            background-color: white;
+        }
+        .chatwindow {
+        height: 500px;
+        margin: 20px;
+        overflow-x: auto;
+        }
+        .row {
+        background-color: teal;
+        margin: 20px;
+        padding: 20px;
+        width: 400px;
+        }
+        .channeloverview {
+        height: 500px;
+        margin: 20px;
+        overflow-x: auto;
+        }
+        channeloverview {
+        background-color: blue;
+        }
+        .col {
+        background-color: red;
+        }
